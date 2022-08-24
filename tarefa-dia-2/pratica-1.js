@@ -8,3 +8,7 @@ matheuscelento@gmail.com = email
 jogador de futebol = profissao
 21 = 2001
 Bahamas = lugar 
+console.log(email)
+console.log(profissao)
+console.log(2001)
+console.log(lugar)
